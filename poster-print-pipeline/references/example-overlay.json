@@ -1,0 +1,9 @@
+{
+  "reference_size": [1000, 1414],
+  "operations": [
+    {"type": "rect", "x": 80, "y": 850, "w": 420, "h": 130, "radius": 12, "fill": "#f5fcff", "stroke": "#8de0ef"},
+    {"type": "text", "x": 100, "y": 888, "text": "Results", "font": "Helvetica-Bold", "size": 22, "max_width": 380},
+    {"type": "text", "x": 100, "y": 930, "text": "Score: 72.2", "size": 18, "max_width": 380},
+    {"type": "line", "x": 100, "y": 950, "x2": 470, "y2": 950, "color": "#8de0ef", "width": 1}
+  ]
+}

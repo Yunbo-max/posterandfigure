@@ -1,0 +1,1048 @@
+{
+  "source": "source.jpg",
+  "reference_size": [
+    1672,
+    941
+  ],
+  "text_runs": [
+    {
+      "text": "Metadata Input",
+      "x": 130.119873046875,
+      "baseline_y": 39.33,
+      "size": 21,
+      "font": "Bold"
+    },
+    {
+      "text": "(Table Schema)",
+      "x": 130.714599609375,
+      "baseline_y": 64.11,
+      "size": 21,
+      "font": "Bold"
+    },
+    {
+      "text": "LLM-based Schema",
+      "x": 419.46923828125,
+      "baseline_y": 39.06,
+      "size": 22,
+      "font": "Bold"
+    },
+    {
+      "text": "Reasoning",
+      "x": 465.6015625,
+      "baseline_y": 65.02,
+      "size": 22,
+      "font": "Bold"
+    },
+    {
+      "text": "CR-KG Construction",
+      "x": 786.8623046875,
+      "baseline_y": 39.56,
+      "size": 22,
+      "font": "Bold"
+    },
+    {
+      "text": "and Validation",
+      "x": 818.00390625,
+      "baseline_y": 65.52,
+      "size": 22,
+      "font": "Bold"
+    },
+    {
+      "text": "Train Tabular Synthesis",
+      "x": 1157.3037109375,
+      "baseline_y": 39.33,
+      "size": 21,
+      "font": "Bold"
+    },
+    {
+      "text": "Model",
+      "x": 1238.42236328125,
+      "baseline_y": 64.11,
+      "size": 21,
+      "font": "Bold"
+    },
+    {
+      "text": "Generate Consistent",
+      "x": 1485.417724609375,
+      "baseline_y": 40.37,
+      "size": 19,
+      "font": "Bold"
+    },
+    {
+      "text": "Synthetic Data",
+      "x": 1508.100830078125,
+      "baseline_y": 62.78999999999999,
+      "size": 19,
+      "font": "Bold"
+    },
+    {
+      "text": "Column",
+      "x": 59.298828125,
+      "baseline_y": 108.12,
+      "size": 15.5,
+      "font": "Bold"
+    },
+    {
+      "text": "Description",
+      "x": 180.6851806640625,
+      "baseline_y": 108.12,
+      "size": 15.5,
+      "font": "Bold"
+    },
+    {
+      "text": "Order ID",
+      "x": 57.8116455078125,
+      "baseline_y": 144.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Unique identifier",
+      "x": 165.8436279296875,
+      "baseline_y": 144.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Product ID",
+      "x": 51.77587890625,
+      "baseline_y": 180.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Item identifier",
+      "x": 174.4564208984375,
+      "baseline_y": 180.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Unit price",
+      "x": 54.795654296875,
+      "baseline_y": 216.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Price per item",
+      "x": 175.5311279296875,
+      "baseline_y": 216.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Quantity",
+      "x": 58.8787841796875,
+      "baseline_y": 252.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Number of units",
+      "x": 168.201171875,
+      "baseline_y": 252.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Net amount",
+      "x": 49.62646484375,
+      "baseline_y": 288.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Total value",
+      "x": 183.9244384765625,
+      "baseline_y": 288.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Supplier number",
+      "x": 34.12646484375,
+      "baseline_y": 324.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Supplier code",
+      "x": 176.170654296875,
+      "baseline_y": 324.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 78.25,
+      "baseline_y": 360.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 211.25,
+      "baseline_y": 360.12,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "LLM A",
+      "x": 340.0,
+      "baseline_y": 159.62,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "LLM B",
+      "x": 340.44140625,
+      "baseline_y": 263.62,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "LLM C",
+      "x": 340.0,
+      "baseline_y": 373.62,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Net amount = Unit price × Quantity",
+      "x": 452,
+      "baseline_y": 107,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "Supplier number → Supplier name",
+      "x": 452,
+      "baseline_y": 129,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 452,
+      "baseline_y": 151,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "Order ID → Order date",
+      "x": 452,
+      "baseline_y": 213,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "Category → Price range",
+      "x": 452,
+      "baseline_y": 235,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 452,
+      "baseline_y": 257,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "Quantity → Stock level",
+      "x": 452,
+      "baseline_y": 317,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "Product category → Category code",
+      "x": 452,
+      "baseline_y": 339,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 452,
+      "baseline_y": 361,
+      "size": 12.8,
+      "font": "Body"
+    },
+    {
+      "text": "Candidate relationships",
+      "x": 685.83154296875,
+      "baseline_y": 106.94,
+      "size": 17,
+      "font": "Bold"
+    },
+    {
+      "text": "Majority",
+      "x": 841.50439453125,
+      "baseline_y": 176.14,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "voting",
+      "x": 849.9990234375,
+      "baseline_y": 197.38,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "Type-specific",
+      "x": 813.900634765625,
+      "baseline_y": 331.77500000000003,
+      "size": 17.5,
+      "font": "Body"
+    },
+    {
+      "text": "tests",
+      "x": 846.4439697265625,
+      "baseline_y": 352.425,
+      "size": 17.5,
+      "font": "Body"
+    },
+    {
+      "text": "Observed",
+      "x": 718.1666015625,
+      "baseline_y": 341.571,
+      "size": 12.7,
+      "font": "Body"
+    },
+    {
+      "text": "data",
+      "x": 731.9239013671875,
+      "baseline_y": 356.557,
+      "size": 12.7,
+      "font": "Body"
+    },
+    {
+      "text": "G",
+      "x": 969,
+      "baseline_y": 130,
+      "size": 21,
+      "font": "Italic"
+    },
+    {
+      "text": "cand",
+      "x": 984.16552734375,
+      "baseline_y": 134,
+      "size": 14.7,
+      "font": "Italic"
+    },
+    {
+      "text": "G",
+      "x": 973,
+      "baseline_y": 293,
+      "size": 21,
+      "font": "Italic"
+    },
+    {
+      "text": "val",
+      "x": 988.16552734375,
+      "baseline_y": 297,
+      "size": 14.7,
+      "font": "Italic"
+    },
+    {
+      "text": "Real data",
+      "x": 1107.267578125,
+      "baseline_y": 178.26,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "Synthetic data",
+      "x": 1288.26416015625,
+      "baseline_y": 178.26,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "train",
+      "x": 1218.423583984375,
+      "baseline_y": 128.94,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Tabular synthesis model",
+      "x": 1139.76025390625,
+      "baseline_y": 239.37,
+      "size": 19,
+      "font": "Bold"
+    },
+    {
+      "text": "(latent diffusion)",
+      "x": 1171.177978515625,
+      "baseline_y": 261.79,
+      "size": 19,
+      "font": "Bold"
+    },
+    {
+      "text": "z ~ N(0, I)",
+      "x": 1092.23046875,
+      "baseline_y": 291.62,
+      "size": 16,
+      "font": "Italic"
+    },
+    {
+      "text": "z",
+      "x": 1109.692138671875,
+      "baseline_y": 366.94,
+      "size": 17,
+      "font": "Italic"
+    },
+    {
+      "text": "x",
+      "x": 1352,
+      "baseline_y": 292,
+      "size": 17,
+      "font": "Italic"
+    },
+    {
+      "text": "0",
+      "x": 1359.54541015625,
+      "baseline_y": 296,
+      "size": 11.899999999999999,
+      "font": "Italic"
+    },
+    {
+      "text": "Denoising process",
+      "x": 1191.62109375,
+      "baseline_y": 388.62,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "Synthetic data",
+      "x": 1498.26416015625,
+      "baseline_y": 174.76,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "Reconstruct dependent",
+      "x": 1462.2783203125,
+      "baseline_y": 249.64,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "columns",
+      "x": 1514.001953125,
+      "baseline_y": 270.88,
+      "size": 18,
+      "font": "Body"
+    },
+    {
+      "text": "Consistent synthetic data",
+      "x": 1466.512451171875,
+      "baseline_y": 393.44,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Example Validated Column Relationship Graph",
+      "x": 178.357421875,
+      "baseline_y": 500.9,
+      "size": 20,
+      "font": "Bold"
+    },
+    {
+      "text": "Learned Relationship Examples",
+      "x": 820.3203125,
+      "baseline_y": 500.9,
+      "size": 20,
+      "font": "Bold"
+    },
+    {
+      "text": "Observed Data and Type-Specific Tests",
+      "x": 1249.169921875,
+      "baseline_y": 501.9,
+      "size": 20,
+      "font": "Bold"
+    },
+    {
+      "text": "Numerical column",
+      "x": 89,
+      "baseline_y": 536.62,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "Categorical column",
+      "x": 89,
+      "baseline_y": 564.62,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "Temporal column",
+      "x": 89,
+      "baseline_y": 591.62,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "Derived column",
+      "x": 89,
+      "baseline_y": 618.62,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "Unit",
+      "x": 237.88671875,
+      "baseline_y": 628.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "price",
+      "x": 235.67578125,
+      "baseline_y": 646.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Quantity",
+      "x": 219.328125,
+      "baseline_y": 742.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Order",
+      "x": 355.67578125,
+      "baseline_y": 558.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "date",
+      "x": 362.3359375,
+      "baseline_y": 576.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Net",
+      "x": 366.0078125,
+      "baseline_y": 692.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "amount",
+      "x": 351.7734375,
+      "baseline_y": 710.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Tax",
+      "x": 363.6640625,
+      "baseline_y": 824.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "amount",
+      "x": 350.7734375,
+      "baseline_y": 842.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Supplier",
+      "x": 488.65625,
+      "baseline_y": 616.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "number",
+      "x": 490.88671875,
+      "baseline_y": 634.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Supplier",
+      "x": 648.65625,
+      "baseline_y": 613.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "name",
+      "x": 659.3359375,
+      "baseline_y": 631.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Product",
+      "x": 490.44921875,
+      "baseline_y": 747.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "category",
+      "x": 488.68359375,
+      "baseline_y": 765.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Category",
+      "x": 647.45703125,
+      "baseline_y": 748.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "code",
+      "x": 663.44921875,
+      "baseline_y": 766.0,
+      "size": 16,
+      "font": "Bold"
+    },
+    {
+      "text": "Temporal",
+      "x": 395.78955078125,
+      "baseline_y": 617.72,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "constraint",
+      "x": 395.396484375,
+      "baseline_y": 634.24,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "Hierarchical",
+      "x": 563.91357421875,
+      "baseline_y": 640.72,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "relationship",
+      "x": 565.45166015625,
+      "baseline_y": 657.24,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "Mapping",
+      "x": 575.22412109375,
+      "baseline_y": 726.22,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "relationship",
+      "x": 567.45166015625,
+      "baseline_y": 742.74,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "Business",
+      "x": 401.10693359375,
+      "baseline_y": 764.22,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "rule",
+      "x": 415.1171875,
+      "baseline_y": 780.74,
+      "size": 14,
+      "font": "Body"
+    },
+    {
+      "text": "Direct dependency",
+      "x": 112,
+      "baseline_y": 815.928,
+      "size": 15.4,
+      "font": "Body"
+    },
+    {
+      "text": "Constraint relationship",
+      "x": 112,
+      "baseline_y": 844.928,
+      "size": 15.4,
+      "font": "Body"
+    },
+    {
+      "text": "Derived relationship",
+      "x": 112,
+      "baseline_y": 871.928,
+      "size": 15.4,
+      "font": "Body"
+    },
+    {
+      "text": "Mathematical relationship (joint parent set)",
+      "x": 779,
+      "baseline_y": 542.1,
+      "size": 17.5,
+      "font": "Bold"
+    },
+    {
+      "text": "Net amount = Unit price × Quantity",
+      "x": 790,
+      "baseline_y": 574,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Parents:  {Unit price, Quantity}",
+      "x": 790,
+      "baseline_y": 597,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Type:  mathematical",
+      "x": 790,
+      "baseline_y": 620,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Hierarchical relationship",
+      "x": 780,
+      "baseline_y": 674.26,
+      "size": 18,
+      "font": "Bold"
+    },
+    {
+      "text": "Supplier number → Supplier name",
+      "x": 790,
+      "baseline_y": 708,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Parent:  {Supplier number}",
+      "x": 790,
+      "baseline_y": 731,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Type:  hierarchical",
+      "x": 790,
+      "baseline_y": 754,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Mapping relationship",
+      "x": 781,
+      "baseline_y": 801.76,
+      "size": 18,
+      "font": "Bold"
+    },
+    {
+      "text": "Product category → Category code",
+      "x": 790,
+      "baseline_y": 836,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Parent:  {Product category}",
+      "x": 790,
+      "baseline_y": 859,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Type:  mapping",
+      "x": 790,
+      "baseline_y": 882,
+      "size": 17,
+      "font": "Body"
+    },
+    {
+      "text": "Order ID",
+      "x": 1198.7918701171875,
+      "baseline_y": 537.028,
+      "size": 15.5,
+      "font": "Bold"
+    },
+    {
+      "text": "Unit price",
+      "x": 1302.138671875,
+      "baseline_y": 537.028,
+      "size": 15.5,
+      "font": "Bold"
+    },
+    {
+      "text": "Quantity",
+      "x": 1417.28662109375,
+      "baseline_y": 537.028,
+      "size": 15.5,
+      "font": "Bold"
+    },
+    {
+      "text": "Net amount",
+      "x": 1525.0380859375,
+      "baseline_y": 537.028,
+      "size": 15.5,
+      "font": "Bold"
+    },
+    {
+      "text": "A001",
+      "x": 1212.7781982421875,
+      "baseline_y": 565.428,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "10.0",
+      "x": 1321.9375,
+      "baseline_y": 565.428,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "3",
+      "x": 1443.125,
+      "baseline_y": 565.428,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "30.0",
+      "x": 1550.4375,
+      "baseline_y": 565.428,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "A002",
+      "x": 1212.7781982421875,
+      "baseline_y": 593.828,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "25.5",
+      "x": 1321.9375,
+      "baseline_y": 593.828,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "2",
+      "x": 1443.125,
+      "baseline_y": 593.828,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "51.0",
+      "x": 1550.4375,
+      "baseline_y": 593.828,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "A003",
+      "x": 1212.7781982421875,
+      "baseline_y": 622.2280000000001,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "8.0",
+      "x": 1325.8125,
+      "baseline_y": 622.2280000000001,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "5",
+      "x": 1443.125,
+      "baseline_y": 622.2280000000001,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "40.0",
+      "x": 1550.4375,
+      "baseline_y": 622.2280000000001,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 1222.25,
+      "baseline_y": 650.628,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 1327.75,
+      "baseline_y": 650.628,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 1439.25,
+      "baseline_y": 650.628,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "…",
+      "x": 1556.25,
+      "baseline_y": 650.628,
+      "size": 15.5,
+      "font": "Body"
+    },
+    {
+      "text": "Type-specific tests",
+      "x": 1327.2666015625,
+      "baseline_y": 718.76,
+      "size": 18,
+      "font": "Bold"
+    },
+    {
+      "text": "Numerical consistency",
+      "x": 1212.32763671875,
+      "baseline_y": 779.234,
+      "size": 15.8,
+      "font": "Body"
+    },
+    {
+      "text": "(e.g., equation test)",
+      "x": 1223.734033203125,
+      "baseline_y": 797.878,
+      "size": 15.8,
+      "font": "Body"
+    },
+    {
+      "text": "Categorical validity",
+      "x": 1460.47890625,
+      "baseline_y": 779.234,
+      "size": 15.8,
+      "font": "Body"
+    },
+    {
+      "text": "(e.g., value matching)",
+      "x": 1453.902001953125,
+      "baseline_y": 797.878,
+      "size": 15.8,
+      "font": "Body"
+    },
+    {
+      "text": "Temporal consistency",
+      "x": 1214.078125,
+      "baseline_y": 853.68,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "(e.g., date ordering)",
+      "x": 1221.1953125,
+      "baseline_y": 872.56,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "Distributional plausibility",
+      "x": 1440.55859375,
+      "baseline_y": 853.68,
+      "size": 16,
+      "font": "Body"
+    },
+    {
+      "text": "(e.g., range check)",
+      "x": 1463.703125,
+      "baseline_y": 872.56,
+      "size": 16,
+      "font": "Body"
+    }
+  ],
+  "schema_table": [
+    [
+      "Column",
+      "Description"
+    ],
+    [
+      "Order ID",
+      "Unique identifier"
+    ],
+    [
+      "Product ID",
+      "Item identifier"
+    ],
+    [
+      "Unit price",
+      "Price per item"
+    ],
+    [
+      "Quantity",
+      "Number of units"
+    ],
+    [
+      "Net amount",
+      "Total value"
+    ],
+    [
+      "Supplier number",
+      "Supplier code"
+    ],
+    [
+      "…",
+      "…"
+    ]
+  ],
+  "observed_table": [
+    [
+      "Order ID",
+      "Unit price",
+      "Quantity",
+      "Net amount"
+    ],
+    [
+      "A001",
+      "10.0",
+      "3",
+      "30.0"
+    ],
+    [
+      "A002",
+      "25.5",
+      "2",
+      "51.0"
+    ],
+    [
+      "A003",
+      "8.0",
+      "5",
+      "40.0"
+    ],
+    [
+      "…",
+      "…",
+      "…",
+      "…"
+    ]
+  ]
+}

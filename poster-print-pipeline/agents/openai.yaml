@@ -1,0 +1,4 @@
+interface:
+  display_name: "Poster Print Pipeline"
+  short_description: "Repair poster text, preserve artwork, export capped PDFs"
+  default_prompt: "Use $poster-print-pipeline to prepare this poster for A0 printing, repair distorted text as vectors while preserving illustrations, and create a PDF under 20 MB."
